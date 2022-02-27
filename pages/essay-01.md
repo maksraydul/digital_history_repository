@@ -10,6 +10,11 @@ permalink: /essay-01.html
 
 The ideologies of American political parties changed over the 20th century.
 
+*italic text* **bold text**
+[Digital History](https://maksraydul.github.io/digital_history_repository/essay-01.html)
+-Republican Party
+-Democratic Party
+
 ## Introduction
 
 Here's some sample text, written in Markdown.
