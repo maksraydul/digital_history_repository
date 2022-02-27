@@ -8,6 +8,8 @@ permalink: /essay-01.html
 
 # The Shift in Ideology over the 20th Century
 
+The ideologies of American political parties changed over the 20th century.
+
 ## Introduction
 
 Here's some sample text, written in Markdown.
