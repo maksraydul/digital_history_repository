@@ -4,6 +4,8 @@ layout: about
 permalink: /essay-01.html
 ---
 
+{% include feature/image.html filename="republican_party_platforms.png" alt="graph generated from Republican Party platforms of the 20th century" width="100" %}
+
 {% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
 
 # The Shift in Republican Ideology over the 20th Century
