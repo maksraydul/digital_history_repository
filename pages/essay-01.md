@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
 
 # The Shift in Republican Ideology over the 20th Century
 
@@ -26,11 +26,7 @@ The ideologies of American political parties changed over the 20th century.
 
 ## Introduction
 
-# Heading One
-
-## Heading Two
-
-### Heading Three
+### My First Subheading
 
 ## Conclusion
 
