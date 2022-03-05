@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/image.html filename="republican_party_platforms.png" alt="graph generated from Republic Party Platforms of the 20th century" width="100" %}
+{% include feature/image.html filename="republican_party_platforms.png" alt="word cloud of Republican Party Platforms in the 20th century" width="100" %}
 
 {% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
 
