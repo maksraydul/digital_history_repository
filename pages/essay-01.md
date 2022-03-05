@@ -10,8 +10,26 @@ permalink: /essay-01.html
 
 The ideologies of the Republican Party have changed over the course of the 20th century.
 
+{% include feature/line-chart.html data="party-platforms-20th-century-all" topic="families" %}
+This graph is particularly interesting because of the steep increase starting around the 1990s. I am not sure if this will fit well into my topic, but I just thought it was interesting because I expected words related to family to have been consistently mentioned over time.[^1]
+
+The ideologies of American political parties changed over the 20th century.
+
+*italic text* **bold text**
+[Digital History](https://maksraydul.github.io/digital_history_repository/essay-01.html)
+-Republican Party
+-Democratic Party
+
 ## Introduction
+
+# Heading One
+
+## Heading Two
+
+### Heading Three
 
 ## Conclusion
 
 ## Notes
+
+[^1]: John D’Agata, ed., *The Making of the American Essay* (Minneapolis: Graywolf Press, 2016), 19–20.
