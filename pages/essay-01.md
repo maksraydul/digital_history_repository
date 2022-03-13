@@ -17,6 +17,10 @@ permalink: /essay-01.html
 
   As promised, Teddy did not seek a third term and chose William Howard Taft as his successor. Thanks to Teddy’s support, Taft became the Republican candidate and was soon elected President. In line with his party’s platform, Taft supported the Dingley Tariff but called for revisions to it.[^11] He opposed the “standpatter” Republicans who supported increasing tariff rates, claiming that excessive rates would create “temptation… to form monopolies”.[^12] Taft encouraged the practice of reciprocity, especially toward Canada, believing any agreement would be “mutually advantageous” and bring prosperity.[^13] The practice of trust-busting also continued under Taft, with 99 Sherman Anti-Trust prosecutions occurring during the Taft administration’s four years.[^14] Taft supported an income tax but knew that “the decision of the Supreme Court” meant that any future bill establishing a tax would be struck down.[^15] Regardless, he believed that “a great majority” of the country supported a federal income tax and so proposed an amendment to the Constitution.[^15] Taft was successful and the Sixteenth Amendment was ratified, which implemented a federal income tax nationwide. Teddy notably viewed Taft’s policies and actions as too conservative, and after Taft received the Republican nomination again in 1912, he left the party to form his own Progressive Party.
 
+
+{% include feature/image.html filename="PartyPlatforms2.png" alt="frequency of terms in Republican Party Platforms" caption="Frequency of labor*, industry*, gold*, economy*" width="100" %}
+
+
   The Republican schism that resulted from Teddy's departure ensured the Democratic government trifecta that came from the 1912 elections. Woodrow Wilson became the President, and his party gained a majority in the Senate, having already gained control of the House after the 1910 elections. When running for reelection in 1916, Wilson’s Republican opponent was Charles Evans Hughes, an Associate Justice of the Supreme Court. Most of Hughes’ economic views were typical of the Republican Party at the time. He anticipated economic consequences that would come with the end of World War I and he advocated for “a fair and wine readjustment of the tariff” in preparation.[^16] Hughes notably opposed the Sixteenth Amendment because of the power it granted the federal government, but he supported an income tax in principle.[^17] He also opposed the Adamson Act which established the eight-hour workday, seeing it as political opportunism, and accused Wilson of “knuckling under to railroad workers”.[^18] Hughes lost the election to Wilson, though he later became Secretary of State under Harding and Coolidge and was nominated to the Supreme Court by Hoover.
 
 ## The Roaring Twenties and the Great Depression
@@ -33,15 +37,12 @@ permalink: /essay-01.html
 
   While Dewey was unsuccessful in securing the Republican nomination in 1940, he was successful in 1944. Like Willkie before him, most of Dewey’s campaign was in direct opposition to the policies of FDR. He denounced FDR as a “one-man government”, and while he acknowledged that “in its young days the FDR administration did some good things”, he felt that time had certainly passed.[^39] Dewey ended up losing the election by over three million votes, but he would run for president again in 1948 against FDR’s successor, Harry Truman.
 
-## Conclusion
-  Clearly, the Republican Party had consistent economic policies over the first half of the 20th century. High tariffs, reciprocity in trade, lower taxes, and debt relief were the solutions to the nation’s problems according to Republican presidents and candidates. However, with FDR and his New Deal, specific economic policies took a backseat as the Republican Party stood in direct opposition to the FDR administration.
-
 
 {% include feature/image.html filename="PartyPlatforms.png" alt="term frequency in Republican Party Platforms" caption="Frequency of debt*, new deal*, tariff*, tax*" width="100" %}
 
 
-{% include feature/image.html filename="PartyPlatforms2.png" alt="frequency of terms in Republican Party Platforms" caption="Frequency of labor*, industry*, gold*, economy*" width="100" %}
-
+## Conclusion
+  Clearly, the Republican Party had consistent economic policies over the first half of the 20th century. High tariffs, reciprocity in trade, lower taxes, and debt relief were the solutions to the nation’s problems according to Republican presidents and candidates. However, with FDR and his New Deal, specific economic policies took a backseat as the Republican Party stood in direct opposition to the FDR administration.
 
 ## Notes
 [^1]: Willian McKinley, "Speech Accepting the Republican Nomination," transcript of speech, July 12, 1900, https://millercenter.org/the-presidency/presidential-speeches/july-12-1900-speech-accepting-republican-nomination.
