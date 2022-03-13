@@ -34,10 +34,10 @@ Clearly, the Republican Party had consistent economic policies over the first ha
 
 ## Notes
 
-[^1]: Willian McKinley 1
-[^2]: Lewis L. Gould
+[^1]: Willian McKinley, "
+[^2]: Lewis L. Gould *The Presidency of William McKinley* (Lawrence: University Press of Kansas, 1980).
 [^3]: William McKinley 2
-[^4]: New York Times
+[^4]: New York Times, "Reciprocity Treaties With Other Countries," *New York Times*, Nov. 24, 1901, https://www.nytimes.com/1901/11/24/archives/reciprocity-treaties-with-other-countries-official-data-covering.html.
 [^5]: Republican Party
 [^6]: Theodore Roosevelt 1
 [^7]: Theodore Roosevelt 2
@@ -45,17 +45,17 @@ Clearly, the Republican Party had consistent economic policies over the first ha
 [^9]: Theodore Roosevelt 3
 [^10]: ?
 [^11]: Theodore Roosevelt 4
-[^12]: Paolo Enrico Coletta
+[^12]: Paolo Enrico Coletta, *The Presidency of William Howard Taft* (Lawrence: University Press of Kansas, 1973).
 [^13]: William Howard Taft 1
 [^14]: William Howard Taft 1
-[^15]: Peri E. Arnold
+[^15]: Peri E. Arnold, "William Taft: Domestic Affairs," *Miller Center*, https://millercenter.org/president/taft/domestic-affairs.
 [^16]: William Howard Taft 2
 [^17]: Charles Evans Hughes telegram
-[^18]: Arthur A. Ekirch
-[^19]: James A. Henretta
+[^18]: Arthur A. Ekirch, "The Sixteenth Amendment: The Historical Background," *Cato Journal* vol. 1, no. 1 (Spring 1981): 161-182, https://web.archive.org/web/20120114114404/http://www.cato.org/pubs/journal/cj1n1/cj1n1-9.pdf.
+[^19]: James A. Henretta, "Charles Evans Hughes and the Strange Death of Liberal America," *Law and History Review* vol. 24, no. 1 (Spring 2006): 115-171, https://www.jstor.org/stable/27641353?seq=30#metadata_info_tab_contents.
 [^20]: Warren G. Harding 1
 [^21]: Warren G. Harding 2
-[^22]: Roy G. Blakey
+[^22]: Roy G. Blakey, "The Revenue Act of 1921," *The American Economic Review* vol. 12, no. 1 (March 1922): 75-108, https://www.jstor.org/stable/1801769?seq=1#metadata_info_tab_contents.
 [^23]: Calvin Coolidge 1
 [^24]: Calvin Coolidge sotu
 [^25]: Herbert Hoover 1
@@ -64,13 +64,13 @@ Clearly, the Republican Party had consistent economic policies over the first ha
 [^28]: Herbert Hoover 4
 [^29]: Herbert Hoover 5
 [^30]: Barry Eichengreen and Peter Temen
-[^31]: Edward S. Kaplan
+[^31]: Edward S. Kaplan, "The Fordney-McCumber Tariff of 1922," *EH.net Encyclopedia*, https://eh.net/encyclopedia/the-fordney-mccumber-tariff-of-1922/.
 [^32]: George H. Nash
 [^33]: Alf Landon 1
 [^34]: Alf Landon 2
-[^35]: Time
-[^36]: Steve Neal
+[^35]: Time, "Republicans: Going Places," *Time*, Oct. 26, 1936, http://content.time.com/time/subscriber/article/0,33009,788571-1,00.html.
+[^36]: Steve Neal, *Dark Horse: A Biography of Wendell Willkie*, (New York: Doubleday & Company, Inc, 1984).
 [^37]: Jerold David Gritz
 [^38]: Wendell Willkie
-[^39]: Time
+[^39]: Time, "U.S. At War: We, The People," *Time*, Oct. 16, 1944, http://content.time.com/time/subscriber/article/0,33009,885741,00.html.
 [^40]: Thomas Dewey
