@@ -4,10 +4,9 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Progressive Era;Roaring Twenties and Great Depression;Against FDR;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;Progressive Era;Roaring Twenties and Great Depression;Against FDR;Conclusion;Notes" %}
 
 # The Economic Policies of Republican Presidents and Presidential Candidates over the 20th Century
-
 ## Introduction
   From the election of William McKinley in 1897 until the start of the Great Depression, the Republican Party maintained a government trifecta, controlling the White House, House, and Senate except only in the years around and during Woodrow Wilson’s presidency. As evidenced by the views of Republican presidents and candidates, there were certain economic policies that predominated the Republican Party in this time, including protectionism through high tariff rates, reciprocity in trade with other nations, lowering income taxes, and relieving the national debt. Additionally, before its abandonment, Republicans supported the gold standard for the American dollar, and more progressive Republicans often supported the practice of “trust-busting” started by Teddy Roosevelt. During the Great Depression, Republican economic policies shifted more toward simply opposing the policies of Franklin Delano Roosevelt (FDR) and his New Deal, as evidenced by the views of his opponents in his runs for reelection.
 
@@ -36,6 +35,8 @@ permalink: /essay-01.html
 
 ## Conclusion
   Clearly, the Republican Party had consistent economic policies over the first half of the 20th century. High tariffs, reciprocity in trade, lower taxes, and debt relief were the solutions to the nation’s problems according to Republican presidents and candidates. However, with FDR and his New Deal, specific economic policies took a backseat as the Republican Party stood in direct opposition to the FDR administration.
+  
+{% include feature/image.html filename="republican_party_platforms.png" alt="frequency of terms in Republican Party Platforms" width="75" %}
 
 ## Notes
 [^1]: Willian McKinley, "Speech Accepting the Republican Nomination," transcript of speech, July 12, 1900, https://millercenter.org/the-presidency/presidential-speeches/july-12-1900-speech-accepting-republican-nomination.
