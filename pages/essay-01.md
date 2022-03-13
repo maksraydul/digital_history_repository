@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;Progressive Era;Roaring Twenties and Great Depression;Against FDR;Notes" %}
 
 # The Economic Policies of Republican Presidents and Presidential Candidates over the 20th Century
 
