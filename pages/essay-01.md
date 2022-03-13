@@ -35,8 +35,13 @@ permalink: /essay-01.html
 
 ## Conclusion
   Clearly, the Republican Party had consistent economic policies over the first half of the 20th century. High tariffs, reciprocity in trade, lower taxes, and debt relief were the solutions to the nation’s problems according to Republican presidents and candidates. However, with FDR and his New Deal, specific economic policies took a backseat as the Republican Party stood in direct opposition to the FDR administration.
-  
-{% include feature/image.html filename="republican_party_platforms.png" alt="frequency of terms in Republican Party Platforms" width="75" %}
+
+
+{% include feature/image.html filename="PartyPlatforms.png" alt="term frequency in Republican Party Platforms" caption="Frequency of debt*, new deal*, tariff*, tax*" width="100" %}
+
+
+{% include feature/image.html filename="PartyPlatforms2.png" alt="frequency of terms in Republican Party Platforms" caption="Frequency of labor*, industry*, gold*, economy*" width="100" %}
+
 
 ## Notes
 [^1]: Willian McKinley, "Speech Accepting the Republican Nomination," transcript of speech, July 12, 1900, https://millercenter.org/the-presidency/presidential-speeches/july-12-1900-speech-accepting-republican-nomination.
