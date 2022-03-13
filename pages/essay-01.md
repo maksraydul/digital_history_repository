@@ -34,43 +34,42 @@ Clearly, the Republican Party had consistent economic policies over the first ha
 
 ## Notes
 
-[^1]: Willian McKinley, "
+[^1]: Willian McKinley, "Speech Accepting the Republican Nomination," transcript of speech, July 12, 1900, https://millercenter.org/the-presidency/presidential-speeches/july-12-1900-speech-accepting-republican-nomination.
 [^2]: Lewis L. Gould *The Presidency of William McKinley* (Lawrence: University Press of Kansas, 1980).
-[^3]: William McKinley 2
+[^3]: William McKinley, "Speech in Buffalo, New York," transcript of speech, Sept. 5, 1901, https://millercenter.org/the-presidency/presidential-speeches/september-5-1901-speech-buffalo-new-york.
 [^4]: New York Times, "Reciprocity Treaties With Other Countries," *New York Times*, Nov. 24, 1901, https://www.nytimes.com/1901/11/24/archives/reciprocity-treaties-with-other-countries-official-data-covering.html.
-[^5]: Republican Party
-[^6]: Theodore Roosevelt 1
-[^7]: Theodore Roosevelt 2
-[^8]: Theodore Roosevelt sotu
-[^9]: Theodore Roosevelt 3
-[^10]: ?
-[^11]: Theodore Roosevelt 4
-[^12]: Paolo Enrico Coletta, *The Presidency of William Howard Taft* (Lawrence: University Press of Kansas, 1973).
-[^13]: William Howard Taft 1
-[^14]: William Howard Taft 1
-[^15]: Peri E. Arnold, "William Taft: Domestic Affairs," *Miller Center*, https://millercenter.org/president/taft/domestic-affairs.
-[^16]: William Howard Taft 2
-[^17]: Charles Evans Hughes telegram
-[^18]: Arthur A. Ekirch, "The Sixteenth Amendment: The Historical Background," *Cato Journal* vol. 1, no. 1 (Spring 1981): 161-182, https://web.archive.org/web/20120114114404/http://www.cato.org/pubs/journal/cj1n1/cj1n1-9.pdf.
-[^19]: James A. Henretta, "Charles Evans Hughes and the Strange Death of Liberal America," *Law and History Review* vol. 24, no. 1 (Spring 2006): 115-171, https://www.jstor.org/stable/27641353?seq=30#metadata_info_tab_contents.
-[^20]: Warren G. Harding 1
-[^21]: Warren G. Harding 2
-[^22]: Roy G. Blakey, "The Revenue Act of 1921," *The American Economic Review* vol. 12, no. 1 (March 1922): 75-108, https://www.jstor.org/stable/1801769?seq=1#metadata_info_tab_contents.
-[^23]: Calvin Coolidge 1
-[^24]: Calvin Coolidge sotu
-[^25]: Herbert Hoover 1
-[^26]: Herbert Hoover 2
-[^27]: Herbert Hoover 3
-[^28]: Herbert Hoover 4
-[^29]: Herbert Hoover 5
-[^30]: Barry Eichengreen and Peter Temen
-[^31]: Edward S. Kaplan, "The Fordney-McCumber Tariff of 1922," *EH.net Encyclopedia*, https://eh.net/encyclopedia/the-fordney-mccumber-tariff-of-1922/.
-[^32]: George H. Nash
-[^33]: Alf Landon 1
-[^34]: Alf Landon 2
-[^35]: Time, "Republicans: Going Places," *Time*, Oct. 26, 1936, http://content.time.com/time/subscriber/article/0,33009,788571-1,00.html.
-[^36]: Steve Neal, *Dark Horse: A Biography of Wendell Willkie*, (New York: Doubleday & Company, Inc, 1984).
-[^37]: Jerold David Gritz
-[^38]: Wendell Willkie
-[^39]: Time, "U.S. At War: We, The People," *Time*, Oct. 16, 1944, http://content.time.com/time/subscriber/article/0,33009,885741,00.html.
-[^40]: Thomas Dewey
+[^5]: Republican Party, "Republican Party Platform of 1900," June 19, 1900, https://www.presidency.ucsb.edu/documents/republican-party-platform-1900.
+[^6]: Theodore Roosevelt, "First State of the Union Address," transcript of address to Congress, Dec. 3, 1901, https://www.presidency.ucsb.edu/documents/first-annual-message-16.
+[^7]: Theodore Roosevelt, "Message Regarding US-Cuban Commercial Convention," transcript of address to Congress, Nov. 10, 1903, https://millercenter.org/the-presidency/presidential-speeches/november-10-1903-message-regarding-us-cuban-commercial.
+[^8]: Theodore Roosevelt, "Seventh State of the Union Address," transcript of address to Congress, Dec. 3, 1907, https://www.presidency.ucsb.edu/documents/seventh-annual-message-4.
+[^9]: Theodore Roosevelt, "The Farmer and the Businessman," transcript of speech, Aug., 1912, https://www.theodoreroosevelt.org/content.aspx?page_id=22&club_id=991271&module_id=338373.
+[^10]: Theodore Roosevelt, "Message Regarding Labor Legislation," transcript of address to Congress, March 25, 1908, https://millercenter.org/the-presidency/presidential-speeches/march-25-1908-message-regarding-labor-legislation.
+[^11]: Paolo Enrico Coletta, *The Presidency of William Howard Taft* (Lawrence: University Press of Kansas, 1973).
+[^12]: William Howard Taft, "Address on the Tariff Law of 1909," transcript of speech, Nov. 17, 1909, https://millercenter.org/the-presidency/presidential-speeches/november-17-1909-address-tariff-law-1909.
+[^13]: William Howard Taft, "Special Message on Canadian Reciprocity," transcript of address to Congress, Jan. 26, 1911, https://millercenter.org/the-presidency/presidential-speeches/january-26-1911-special-message-canadian-reciprocity.
+[^14]: Peri E. Arnold, "William Taft: Domestic Affairs," *Miller Center*, https://millercenter.org/president/taft/domestic-affairs.
+[^15]: William Howard Taft, "Message Regarding Income Tax," transcript of address to Congress, June 16, 1909, https://millercenter.org/the-presidency/presidential-speeches/june-16-1909-message-regarding-income-tax.
+[^16]: Charles Evans Hughes, "Telegram Accept the Republican Nomination for President," transcript of telegram, June 10, 1916, https://www.presidency.ucsb.edu/documents/telegram-accepting-the-republican-nomination-for-president.
+[^17]: Arthur A. Ekirch, "The Sixteenth Amendment: The Historical Background," *Cato Journal* vol. 1, no. 1 (Spring 1981): 161-182, https://web.archive.org/web/20120114114404/http://www.cato.org/pubs/journal/cj1n1/cj1n1-9.pdf.
+[^18]: James A. Henretta, "Charles Evans Hughes and the Strange Death of Liberal America," *Law and History Review* vol. 24, no. 1 (Spring 2006): 115-171, https://www.jstor.org/stable/27641353?seq=30#metadata_info_tab_contents.
+[^19]: Warren G. Harding, "Readjustment," transcript of speech, May 14, 1920, https://millercenter.org/the-presidency/presidential-speeches/may-14-1920-readjustment.
+[^20]: Warren G. Harding, "Address to a Joint Session of Congress on Urgent National Problems," transcript of address to Congress, April 12, 1921, https://www.presidency.ucsb.edu/documents/address-joint-session-congress-urgent-national-problems.
+[^21]: Roy G. Blakey, "The Revenue Act of 1921," *The American Economic Review* vol. 12, no. 1 (March 1922): 75-108, https://www.jstor.org/stable/1801769?seq=1#metadata_info_tab_contents.
+[^22]: Calvin Coolidge, "Address at the Seventh Regular Meeting of the Business Organization of the Government," transcript of speech, June 30, 1924, https://coolidgefoundation.org/resources/address-at-the-seventh-regular-meeting-of-the-business-organization-of-the-government/.
+[^23]: Calvin Coolidge, "First State of the Union Address," transcript of address to Congress, Dec. 6, 1923, https://www.presidency.ucsb.edu/node/206712.
+[^24]: Herbert Hoover, "Inaugural Address," transcript of speech, March 4, 1929, https://millercenter.org/the-presidency/presidential-speeches/march-4-1929-inaugural-address.
+[^25]: Herbert Hoover, "Message Regarding the Farm Bill," transcript of speech, June 11, 1929, https://millercenter.org/the-presidency/presidential-speeches/june-11-1929-message-regarding-farm-bill.
+[^26]: Herbert Hoover, "Message Regarding 'Black Thursday'," transcript of speech, Oct. 25, 1929, https://millercenter.org/the-presidency/presidential-speeches/october-25-1929-message-regarding-black-thursday.
+[^27]: Herbert Hoover, "Message on the Economy," transcript of speech, Nov. 5, 1929, https://millercenter.org/the-presidency/presidential-speeches/november-5-1929-message-economy.
+[^28]: Herbert Hoover, "Statement on the Economy," transcript of speech, Nov. 19, 1929, https://millercenter.org/the-presidency/presidential-speeches/november-19-1929-statement-economy.
+[^29]: Barry Eichengreen and Peter Temen, "The Gold Standard and the Great Depression," *Contemporary European History* vol. 9, no. 2 (July 2000): 183-207, https://www.jstor.org/stable/20081742?seq=1#metadata_info_tab_contents.
+[^30]: Edward S. Kaplan, "The Fordney-McCumber Tariff of 1922," *EH.net Encyclopedia*, https://eh.net/encyclopedia/the-fordney-mccumber-tariff-of-1922/.
+[^31]: George H. Nash, "The Republican Right From Taft to Reagan," *Reviews in American History* vol. 12, no. 2, (June 1984): 261-265, https://www.jstor.org/stable/2702450?seq=1#metadata_info_tab_contents.
+[^32]: Alf Landon, "Address Accepting the Republican Presidential Nomination in Topeka, Kansas," transcript of speech, July 23, 1936, https://www.presidency.ucsb.edu/documents/address-accepting-the-republican-presidential-nomination-topeka-kansas.
+[^33]: Alf Landon, "I Will Not Promise the Moon," transcript of speech, Oct. 15, 1936, http://historymatters.gmu.edu/d/8128/.
+[^34]: Time, "Republicans: Going Places," *Time*, Oct. 26, 1936, http://content.time.com/time/subscriber/article/0,33009,788571-1,00.html.
+[^35]: Steve Neal, *Dark Horse: A Biography of Wendell Willkie*, (New York: Doubleday & Company, Inc, 1984).
+[^36]: Jerold David Gritz, "A historical analysis of the nomination of Wendell Lewis Willkie for the presidency of the United States of America," (University of the Pacific, 1967), https://scholarlycommons.pacific.edu/cgi/viewcontent.cgi?article=2626&context=uop_etds.
+[^37]: Wendell Willkie, "Address Accepting the Presidential Nomination in Elwood, Indiana," transcript of speech, Aug. 17, 1940, https://www.presidency.ucsb.edu/documents/address-accepting-the-presidential-nomination-elwood-indiana.
+[^38]: Time, "U.S. At War: We, The People," *Time*, Oct. 16, 1944, http://content.time.com/time/subscriber/article/0,33009,885741,00.html.
+[^39]: Thomas Dewey, "Address Accepting the Presidential Nomination at the Republican National Convention in Chicago, Illinois," transcript of speech, June 28, 1944. https://www.presidency.ucsb.edu/documents/address-accepting-the-presidential-nomination-the-republican-national-convention-chicago-1.
