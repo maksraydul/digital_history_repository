@@ -50,8 +50,8 @@ permalink: /essay-02.html
 {% include feature/line-chart.html data="party-platforms-1948-2000-republican" topic="freedom and prosperity" %}
 
 ## Notes
-[^1]: Willian McKinley, "Speech Accepting the Republican Nomination," transcript of speech, July 12, 1900, (https://millercenter.org/the-presidency/presidential-speeches/july-12-1900-speech-accepting-republican-nomination).
-[^2]: Lewis L. Gould *The Presidency of William McKinley* (Lawrence: University Press of Kansas, 1980).
+[^1]: William McKinley, ["Last Public Utterance to the People,"](https://www.presidency.ucsb.edu/documents/president-mckinleys-last-public-utterance-the-people-buffalo-new-york) transcript of speech, Sept. 5, 1901.
+[^2]: Ibid.
 [^3]: William McKinley, "Speech in Buffalo, New York," transcript of speech, Sept. 5, 1901, https://millercenter.org/the-presidency/presidential-speeches/september-5-1901-speech-buffalo-new-york.
 [^4]: New York Times, "Reciprocity Treaties With Other Countries," *New York Times*, Nov. 24, 1901, https://www.nytimes.com/1901/11/24/archives/reciprocity-treaties-with-other-countries-official-data-covering.html.
 [^5]: Republican Party, "Republican Party Platform of 1900," June 19, 1900, https://www.presidency.ucsb.edu/documents/republican-party-platform-1900.
