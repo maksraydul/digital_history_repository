@@ -63,7 +63,7 @@ George Bush had two objectives with his fiscal policy: “getting our own house 
 
 ## Conclusion
 
-ADDMORE.
+Clearly, the commercial and fiscal policies of the Republican Party changed over the 20th century, although the former changed much more than the latter. The speeches of Republican presidents and the legislation they signed into law both provide a view into their economic policies and thus Republican policies as a whole. As this paper demonstrated, coming into the century, Republican commercial policy centered around a protective and reciprocal tariff, shifting during and after World War II toward a mutual, free trade policy. Republican fiscal policy was moderately conservative entering the 20th century and became increasingly conservative as time passed, with taxes and then inflation becoming central issues.
 
 ## Notes
 [^1]: Republican Party, ["Republican Party Platform of 1860,"](https://www.presidency.ucsb.edu/documents/republican-party-platform-1860) May 17, 1860; Republican Party, ["Republican Party Platform of 1896,"](https://www.presidency.ucsb.edu/documents/republican-party-platform-1896) June 18, 1896.
