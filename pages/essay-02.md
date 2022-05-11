@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-02.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Progressive Era;Roaring Twenties and Great Depression;Running Against FDR;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;McKinley to Taft: Protection, Reciprocity, and Prosperity;Harding to Hoover: From Prosperity to Depression;Eisenhower to Bush: Free Trade and Fiscal Conservatism;Conclusion;Notes" %}
 
 # The Economic Policies of Republican Presidents and Presidential Candidates over the 20th Century
 ## Introduction
@@ -29,7 +29,7 @@ permalink: /essay-02.html
 
   Roosevelt notably perceived Taft’s policies as too conservative, and he left the party to form his own Progressive Party. This schism ensured the Democratic victories in the 1912 elections, and Woodrow Wilson became president. Through the government trifecta, he began implementing his New Freedom program, which included the Revenue Act of 1913. The act decreased tariff rates, limited the president’s ability to negotiate trade agreements, and established a federal income tax.[^33] With the outbreak of World War I came an economic boom that was followed by a post-war recession.
 
-## Harding to Hoover: From the Roaring Twenties to the Great Depression
+## Harding to Hoover: From Prosperity to Depression
 
   Warren Harding was elected president amid the recession and his fiscal and commercial policies were typical of the Republican party at that time. Harding opposed the “false economics” of the Wilson administration, rejecting the “theory of banished barriers of trade”.[^34] He called for reducing both “abnormal expenditures” and war taxes, analogizing resolving these issues to “putting our public household in order”.[^35] He sought to repeal any “unproductive” internal taxes and urged for revisions to the Revenue Act of 1913.[^36] Early into his presidency, Harding called a special session of Congress to deal with these “urgent national problems”, and the Emergency Tariff of 1921 was soon passed, which increased rates on many agricultural products.[^37] Congress later passed the Revenue Act of 1921, which repealed the excess profits tax and reduced the top marginal rate from 73 percent to 58.[^38] The emergency tariff was later overwritten by the “permanent” Fordney-McCumber tariff in 1922 that notably contained a provision “for a certain flexibility in customs duties” which enabled the president to adjust tariff rates.[^39]
 
