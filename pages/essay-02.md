@@ -68,4 +68,17 @@ Coming into office amid the recessions of the early 1980s, Reagan’s fiscal pol
 ADDMORE.
 
 ## Notes
-[^1]: 
+[^1]: Republican Party, ["Republican Party Platform of 1860,"](https://www.presidency.ucsb.edu/documents/republican-party-platform-1860) May 17, 1860; Republican Party, ["Republican Party Platform of 1896,"](https://www.presidency.ucsb.edu/documents/republican-party-platform-1896) June 18, 1896.
+[^2]: Republican Party, ["Republican Party Platform of 1896,"](https://www.presidency.ucsb.edu/documents/republican-party-platform-1896) June 18, 1896.
+[^3]: William McKinley, ["Last Public Utterance to the People,"](https://www.presidency.ucsb.edu/documents/president-mckinleys-last-public-utterance-the-people-buffalo-new-york) transcript of speech, Sept. 05, 1901.
+[^4]: Frank Fetter, ["Modern Economic Problems,"](https://chestofbooks.com/finance/economics/Economics2-Modern-Economic-Problems/American-Tariff-History-Part-4.html) (Bloomington, IN: Century Company, 1915).
+[^5]: Fifty-Fifth United States Congress, ["The Dingley Act of 1897,"](https://fraser.stlouisfed.org/title/tariff-1897-dingley-tariff-5862).
+[^6]: New York Times, ["Reciprocity Treaties With Other Countries,"](https://www.nytimes.com/1901/11/24/archives/reciprocity-treaties-with-other-countries-official-data-covering.html) Nov. 24, 1901.
+[^7]: William McKinley, ["First Inaugural Address,"](https://www.presidency.ucsb.edu/documents/inaugural-address-43) transcript of address, March 04, 1897.
+[^8]: Ibid.
+[^9]: Ibid.
+[^10]: William McKinley, ["Second Annual Message,"](https://www.presidency.ucsb.edu/documents/second-annual-message-15) transcript of address to Congress, Dec. 05, 1898; William McKinley, ["Fourth Annual Message,"](https://www.presidency.ucsb.edu/documents/fourth-annual-message-14) transcript of address to Congress, Dec. 03, 1900.
+[^11]: Theodore Roosevelt, ["Sixth Annual Message,"](https://www.presidency.ucsb.edu/documents/sixth-annual-message-4) transcript of address to Congress, Dec. 03, 1906.
+[^12]: Theodore Roosevelt, ["First Annual Message,"](https://www.presidency.ucsb.edu/documents/first-annual-message-16) transcript of address to Congress, Dec. 03, 1901.
+[^13]: Theodore Roosevelt, ["Sixth Annual Message,"](https://www.presidency.ucsb.edu/documents/sixth-annual-message-4) transcript of address to Congress, Dec. 03, 1906.
+[^14]: Ibid.
